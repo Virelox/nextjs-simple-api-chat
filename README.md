@@ -6,7 +6,7 @@
 
 ## Description
 
-The "Simple API Chat" project is an experiment that combines Next.js technology with the powerful ChatGPT 3.5 API. The aim was to create an interactive conversational environment, showcasing the potential of advanced language models in real-world applications.
+The "Simple API Chat" project is an experiment that combines Next.js (v13.4.12) technology with the powerful ChatGPT 3.5 API. The aim was to create an interactive conversational environment, showcasing the potential of advanced language models in real-world applications.
 
 ## Getting Started
 
@@ -21,7 +21,7 @@ OPENAI_ORGANIZATION_ID=
 
 -   **Integration with ChatGPT 3.5:** Leveraging the ChatGPT 3.5 API, this project enables dialogue with the computer that closely resembles conversing with a human.
 
--   **Responsiveness through Next.js:** Utilizing the Next.js framework, the project offers a responsive user interface that adapts seamlessly to various devices and screen sizes.
+-   **Responsiveness through Next.js 13:** Utilizing the Next.js framework, the project offers a responsive user interface that adapts seamlessly to various devices and screen sizes.
 
 -   **Educational Purpose:** The project serves an educational purpose, demonstrating the integration of cutting-edge tools for building practical and interactive solutions.
 
